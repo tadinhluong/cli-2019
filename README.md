@@ -7,18 +7,16 @@ Ubuntu 18.04
 
 
 - Build:
-scons
+```scons```
 
 
 - Example:
-```
-sh user@localhost:~/tmp/cli $ ./test_cli 
-```
-```
+```sh
+user@localhost:~/tmp/cli $ ./test_cli 
+
 Hello, this is Quagga (version 1.2.2).
 Copyright 1996-2005 Kunihiro Ishiguro, et al.
-```
-```sh
+
 localhost> list
   show version
   list
