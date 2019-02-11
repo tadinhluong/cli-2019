@@ -43,3 +43,14 @@ localhost> list
 localhost> 
 localhost> 
 ```
+
+- References:
+https://www.nongnu.org/quagga/docs/quagga.pdf
+
+https://the-eye.eu/public/Books/IT%20Various/For.Dummies.Linux.Smart.Homes.For.Dummies.Aug.2006.pdf
+
+http://tcpflag.blogspot.com/2010/03/using-quaggas-command-line.html
+
+https://docs.cumulusnetworks.com/display/CL332/Configuring+Quagga
+
+
