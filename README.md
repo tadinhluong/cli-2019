@@ -55,4 +55,6 @@ http://tcpflag.blogspot.com/2010/03/using-quaggas-command-line.html
 
 https://docs.cumulusnetworks.com/display/CL332/Configuring+Quagga
 
+https://www.nongnu.org/quagga/docs/docs-multi/VTY-shell.html#VTY-shell
+
 
