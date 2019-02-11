@@ -2,20 +2,23 @@
 Standalone command line interface (CLI) library from Quagga Routing Suite, GPL licensed
 
 
-Test on:
-CentOS Linux 7
+- Test on:
+Ubuntu 18.04
 
 
-Build:
+- Build:
 scons
 
 
-Example:
-user@localhost:~/tmp/cli $ ./test_cli 
-
+- Example:
+```
+sh user@localhost:~/tmp/cli $ ./test_cli 
+```
+```
 Hello, this is Quagga (version 1.2.2).
 Copyright 1996-2005 Kunihiro Ishiguro, et al.
-
+```
+```sh
 localhost> list
   show version
   list
@@ -41,4 +44,4 @@ localhost> list
   show logging
 localhost> 
 localhost> 
-
+```
